@@ -1,6 +1,5 @@
 /*
    MENU DRIVEN PROGRAM FOR BASIC ARITHMETIC OPERATIONS
-
    The program performs:
    1. Addition
    2. Subtraction
